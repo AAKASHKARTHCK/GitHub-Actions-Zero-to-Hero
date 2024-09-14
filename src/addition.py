@@ -1,5 +1,4 @@
-# app.py
-# This is a aakash 
+# app.py 
 def add(a, b):
     return a + b
 
